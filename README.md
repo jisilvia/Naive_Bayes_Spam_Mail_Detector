@@ -35,13 +35,13 @@ from sklearn.metrics import accuracy_score
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-Next, follow instructions in the output to authorize access to Google Drive in order to obtain directories.
+After importing ```drive.mount('/content/drive')```, follow instructions in the output to authorize access to Google Drive in order to obtain directories.
 
 ## Launch
 
 Download the data file provided and decompress it. Using Google Drive, create the following folder structure and upload the data here:
 
-```python
+```
 /content/drive/MyDrive/MSBA_Colab_2020/ML_Algorithms/CA02/Data
 ```
 
