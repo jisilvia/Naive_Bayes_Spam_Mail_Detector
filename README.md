@@ -1,5 +1,8 @@
 # Spam eMail Detection using Naive Bayes Classification Algorithm
 ![enter image description here](https://emailchef.com/wp-content/uploads/2019/06/email-spam-reputation-636x425.png)
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 In statistics, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong independence assumptions between the features. They are among the simplest Bayesian network models, but coupled with kernel density estimation, they can achieve higher accuracy levels.
 
