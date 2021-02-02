@@ -25,10 +25,11 @@ In this exercise we shall train the model with set of emails labelled as either 
 ### Packages 
 Install the following packages in Python prior to running the code.
 ```python
-import pandas as pd
+import os
 import numpy as np
-from sklearn.impute import SimpleImputer
-import matplotlib.pyplot as plt
+from collections import Counter
+from sklearn.naive_bayes import GaussianNB
+from sklearn.metrics import accuracy_score
 ```
 
 ## Launch
