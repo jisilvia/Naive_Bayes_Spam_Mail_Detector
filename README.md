@@ -12,11 +12,10 @@ In this exercise we shall train the model with set of emails labelled as either 
 
 ## Steps
 
- 1. Building a dictionary with most common 3000 words
- 2. Extracting features and corresponding label matrix
- 3. Training and predicting with sklearn Naive Bayes
- 4. Accuracy Score
- 5. Conclusion
+ 1. Cleaning and Preparing Data
+ 2. Building the Algorithms
+ 3. Training and Predicting Results
+ 4. Evaluation
 
 ## Requirements
 
