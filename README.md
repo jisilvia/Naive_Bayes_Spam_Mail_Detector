@@ -46,6 +46,10 @@ Download the data file provided and decompress it. Using Google Drive, create th
 
 where ```/content/drive/MyDrive``` is the standard file path.
 
+## Known Bugs
+
+Please download the .ipynb file and open it in Google Collab to correctly display the markup comments.
+
 ## Authors
 
 [Silvia Ji](https://www.linkedin.com/in/silviaji/) - [GitHub](github.com/jisilvia)
