@@ -8,7 +8,7 @@ In statistics, naive Bayes classifiers are a family of simple "probabilistic cla
 
 # Project Description
 
-In this exercise we shall train the model with set of emails labelled as either from Spam or Not Spam. There are 702 emails equally divided into spam and non spam category. Next, we shall test the model on 260 emails. We shall ask model to predict the category of this emails and compare the accuracy with correct classification that we already know.
+In this project, a model is trained with set of emails labelled as either from Spam or Non-Spam. There are 702 emails equally divided into spam and non spam category. Next, the model is tested on 260 emails. The model is tasked to predict the category of the emails and compare the accuracy with known correct classifications. There are two folders: test-mails and train-mails. Train-mails are to train the model. Test-mails are used to test the accuracy of the model. Each email's first line is the subject; the content starts from the third line.
 
 ## Steps
 
